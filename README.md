@@ -1,4 +1,5 @@
 # <p align="center"><!--<img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "29px">-->Bem-vindo, Sou Anderson Santos!</p>
+
 <p align="center">
 <a href="#">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -14,9 +15,11 @@
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> 
 <img src="https://img.shields.io/badge/MySQL-706b6b?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>
+
 Sou apaixonado por tecnologias, formas e códigos. tento manter minhas Habilidades sempre aperfeiçoadas e atualizadas.
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - Notações, Artigos (Base de conhecimento).
 - [Website](https://azsantoss.github.io/portfolio/) 💻 - Portifolio profissional
+
 <p align="center"> 
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif?raw=true" width="30px"> 
   <br>
@@ -25,6 +28,7 @@ Sou apaixonado por tecnologias, formas e códigos. tento manter minhas Habilidad
   <img src="https://profile-counter.glitch.me/azsantoss/count.svg" />
 </p>
 </p>
+
 ## Estatísticas do GitHub e principais linguagens
 <p align="center">
   <a href="https://github.com/azsantoss">
