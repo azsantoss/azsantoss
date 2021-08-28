@@ -6,7 +6,7 @@
 <!-- ## Sobre min -->
 <p align="center">
   <!--My interests: <br>-->
-
+<a href="#">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />  
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> 
 <img src="https://img.shields.io/badge/MySQL-706b6b?style=for-the-badge&logo=mysql&logoColor=white" />
-
+</a>
 
 Sou apaixonado por tecnologias, formas e códigos. tento manter minhas Habilidades sempre aperfeiçoadas e atualizadas.
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - Notações, Artigos (Base de conhecimento).
@@ -37,11 +37,11 @@ Sou apaixonado por tecnologias, formas e códigos. tento manter minhas Habilidad
 
 ## Estatísticas do GitHub e principais linguagens
 <p align="center">
-  
+  <a href="https://github.com/azsantoss">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azsantoss&theme=react&hide_langs_below=1" />
   </a>
 
-  
+  <a href="https://github.com/azsantoss">
     <!--<img
       align="center"
       height="165"
@@ -51,7 +51,7 @@ Sou apaixonado por tecnologias, formas e códigos. tento manter minhas Habilidad
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=azsantoss&show_icons=true&theme=react&count_private=true" alt="Azsantoss" />
 
-
+  </a>
 </p>
 
 <!--## Gráfico de Contribuição
