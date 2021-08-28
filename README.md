@@ -1,6 +1,8 @@
-### Hi there 👋
+# <p align="center"><!--<img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "29px">-->Bem-vindo, Sou Anderson Santos!</p>
 
 <!--
+### Hi there 👋
+
 **azsantoss/azsantoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
