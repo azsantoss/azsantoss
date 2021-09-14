@@ -1,7 +1,7 @@
 # <p align="center"><!--<img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "29px">-->Bem-vindo, Sou Anderson Santos!</p>
 
 <p align="center">
-<a href="#">
+<a href="https://github.com/azsantoss">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
@@ -17,15 +17,19 @@
 </a>
 
 Sou apaixonado por tecnologias, formas e códigos. tento manter minhas Habilidades sempre aperfeiçoadas e atualizadas.
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - Notações, Artigos (Base de conhecimento).
+- [Blog](https://github.com/azsantoss) ✍🏼 - Notações, Artigos (Base de conhecimento).
 - [Website](https://azsantoss.github.io/portfolio/) 💻 - Portifolio profissional
 
-<p align="center"> 
+<p align="center">
+  <a href="https://github.com/azsantoss">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif?raw=true" width="30px"> 
+  </a>
   <br>
   Total de acessos - AzSantoss
   <br>
+  <a href="https://github.com/azsantoss">
   <img src="https://profile-counter.glitch.me/azsantoss/count.svg" />
+  </a>
 </p>
 </p>
 
