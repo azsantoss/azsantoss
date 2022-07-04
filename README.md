@@ -1,7 +1,7 @@
-# <p align="center"><!--<img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "29px">-->Bem-vindo, Sou Anderson Santos!</p>
-
+<!--# <p align="center"><img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width = "29px">Bem-vindo, Sou Anderson Santos!</p>-->
+[![Hi, I'm Anderson Santos](./assets/cover.png)](#)
 <p align="center">
- Essas são algumas das linguagens e frameworks que obtive contato e continuo estudando. <br><br>
+Essas são algumas das linguagens e frameworks que obtive contato e continuo estudando. </br></br>
 <a href="https://github.com/azsantoss">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -16,13 +16,13 @@
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> 
 <img src="https://img.shields.io/badge/MySQL-706b6b?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>
-
-Sou apaixonado por tecnologias, formas e códigos. tento manter minhas Habilidades sempre aperfeiçoadas e atualizadas.
+</br></br>
+<!--Sou apaixonado por tecnologias, formas e códigos. tento manter minhas Habilidades sempre aperfeiçoadas e atualizadas.
 - [Blog](https://github.com/azsantoss) ✍🏼 - Notações, Artigos (Base de conhecimento).
-- [Website](https://azsantoss.github.io/portfolio/) 💻 - Portifolio profissional
-
+- [Website](https://azsantoss.github.io/portfolio/) 💻 - Portifolio profissional-->
 <p align="center">
-  <a href="https://github.com/azsantoss">
+  <img src="https://api.visitorbadge.io/api/visitors?path=azsantoss&label=visualiza%C3%A7%C3%B5es&labelColor=%23002857countColor=%23000000&style=plastic" width="200px"/> 
+  <!--<a href="https://github.com/azsantoss">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif?raw=true" width="30px"> 
   </a>
   <br>
@@ -30,12 +30,13 @@ Sou apaixonado por tecnologias, formas e códigos. tento manter minhas Habilidad
   <br>
   <a href="https://github.com/azsantoss">
   <img src="https://profile-counter.glitch.me/azsantoss/count.svg" />
-  </a>
+  </a>-->
 </p>
 </p>
 
-## Estatísticas do GitHub e principais linguagens
+## 
 <p align="center">
+Estatísticas do GitHub e principais linguagens</br></br>
   <a href="https://github.com/azsantoss">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azsantoss&theme=react&hide_langs_below=1" />
   </a>
