@@ -21,7 +21,7 @@ Essas são algumas das linguagens e frameworks que obtive contato e continuo est
 - [Blog](https://github.com/azsantoss) ✍🏼 - Notações, Artigos (Base de conhecimento).
 - [Website](https://azsantoss.github.io/portfolio/) 💻 - Portifolio profissional-->
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=azsantoss&label=visualiza%C3%A7%C3%B5es&labelColor=%23002857countColor=%23000000&style=plastic" width="200px"/> 
+<a href="https://github.com/azsantoss"><img src="https://api.visitorbadge.io/api/visitors?path=azsantoss&label=visualiza%C3%A7%C3%B5es&labelColor=%23002857countColor=%23000000&style=plastic" width="200px"/></a> 
   <!--<a href="https://github.com/azsantoss">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif?raw=true" width="30px"> 
   </a>
