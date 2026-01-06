@@ -37,11 +37,9 @@ Essas são algumas das linguagens e frameworks que obtive contato e continuo est
 ## 
 <p align="center">
 Estatísticas do GitHub e principais linguagens</br></br>
-  <a href="https://github.com/azsantoss">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azsantoss&theme=codeSTACKr&hide_langs_below=1" />
-  </a>
-  <a href="https://github.com/azsantoss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=azsantoss&show_icons=true&theme=codeSTACKr&count_private=true" alt="Azsantoss" />
-  </a>
+  <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azsantoss&theme=gruvbox" alt="Details" width="60%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azsantoss&theme=gruvbox&utcOffset=3" alt="Commits" width="29%">
+</div>
 </p>
 
